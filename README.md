@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehranh8&label=Profile%20views&color=0e75b6&style=flat" alt="mehranh8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehranh8" alt="mehranh8" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [hassaninia.ir](hassaninia.ir)
 
 - 💬 Ask me about **js,tailwind,bootstrap,reactjs,nextjs,nodejs**
@@ -23,4 +21,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehranh8&show_icons=true&locale=en&layout=compact" alt="mehranh8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehranh8&show_icons=true&locale=en" alt="mehranh8" /></p>
